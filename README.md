@@ -7,7 +7,7 @@ Report Status (These questions need to be answered for part of your grade):
 1.1: What command did you use to bring the repository to your local machine?
 Answer: git clone <http link>
 1.2: What was your first commit message to push this file to GitHub?
-Answer: "assignment briefing"
+Answer: "modified README.md"
 Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
 Instructions:
@@ -21,9 +21,9 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 Finally, use git push to publish your work to GitHub.
 Report Status:
 2.1: What two file names did you create?
-Answer:
+Answer:Ada Lovelace and Alan Turning
 2.2: What was your commit message?
-Answer:
+Answer: 3 file changed 123 insertions(+)
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
@@ -110,5 +110,4 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
 [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
-[Alan Turning](https://www.britannica.com/biography/Alan-Turing)
-
+[Alan Turning](https://www.britannica.com/biography/Alan-Turing):
