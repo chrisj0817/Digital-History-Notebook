@@ -111,3 +111,15 @@ A screenshot of your repository's commit history on GitHub. To find this, naviga
 Be sure to answer the questions above as well.
 [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
 [Alan Turning](https://www.britannica.com/biography/Alan-Turing):
+Timeline: The Rise of the Internet.
+*1801- Jacquard Loom: Used to punch cards to control a weaving machine
+*1830s- Charles Babbage designs the Analytical Engine
+*1843- Ada Lovelace writes the first algorithm
+*1936- Alan Turing proposes the Turning Machine.
+*1950s- Computers use vaccum tubes, then transitors
+*1956- The first hard drive is invented
+*1969- ARPANET is created
+*1975-Bill Gates and Paul Allen start Microsoft
+*1976-Steve Jobs and Steve Wozniak found Appe and release the Apple 1
+*1983- The internet's first doman name system begins
+*
