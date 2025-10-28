@@ -81,9 +81,11 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
 Report Status:
 6.1: What was your commit message for this assignment?
-Answer:
+Answer:[main ac14faa] Added Tim Berners-Lee
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+ create mode 100644 tim-berners-lee.md
 6.2: What command did you use to publish your work?
-Answer:
+Answer:git push
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
@@ -127,3 +129,5 @@ Timeline: The Rise of the Internet.
 *2007- The iPhone introduces mobile internet access to millions
 *2010s- Cloud computing and streaming services reshape how people use the internet
 *2020s- The rise of AI tools and IoT(Internet of Things) connects technology more deely with daily life.
+
+ 
