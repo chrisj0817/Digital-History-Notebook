@@ -36,7 +36,7 @@ Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer:
+Answer:git pull
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -109,8 +109,8 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
-[Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
-[Alan Turning](https://www.britannica.com/biography/Alan-Turing):
+[Ada Lovelace](https://github.com/chrisj0817/Digital-History-Notebook/blob/c723443625664a98c44d72c8b4d2900c53743a96/ada-lovelace.md)
+[Alan Turning](https://github.com/chrisj0817/Digital-History-Notebook/blob/c723443625664a98c44d72c8b4d2900c53743a96/alan-turning.md):
 Timeline: The Rise of the Internet.
 *1801- Jacquard Loom: Used to punch cards to control a weaving machine
 *1830s- Charles Babbage designs the Analytical Engine
