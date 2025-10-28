@@ -63,9 +63,13 @@ Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 Report Status:
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer: remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 1004 bytes | 22.00 KiB/s, done.
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer:git pull
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
