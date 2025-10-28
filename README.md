@@ -112,14 +112,14 @@ Be sure to answer the questions above as well.
 [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer)
 [Alan Turning](https://www.britannica.com/biography/Alan-Turing):
 Timeline: The Rise of the Internet.
-*1801- Jacquard Loom: Used to punch cards to control a weaving machine
-*1830s- Charles Babbage designs the Analytical Engine
-*1843- Ada Lovelace writes the first algorithm
-*1936- Alan Turing proposes the Turning Machine.
-*1950s- Computers use vaccum tubes, then transitors
-*1956- The first hard drive is invented
-*1969- ARPANET is created
-*1975-Bill Gates and Paul Allen start Microsoft
-*1976-Steve Jobs and Steve Wozniak found Appe and release the Apple 1
-*1983- The internet's first doman name system begins
-*
+*1969- The first message is sent over ARPANET, the early network that became the foundation of the internet
+*1971- Email is invented by Ray Tomlinson
+*1983- The TCP/IP protocol becomes the standard, officailly creating the Modern Internet.
+*1989- Tim Berners-Lee proposes the World Wide Web
+*1991- The first website goes live.
+*1993- The Mosiac web browser makes the web easier to use and sparks public interest.
+*1998- Google is founded, revolutionizing web search.
+*2004-Facebook launches, beginning the era of social media
+*2007- The iPhone introduces mobile internet access to millions
+*2010s- Cloud computing and streaming services reshape how people use the internet
+*2020s- The rise of AI tools and IoT(Internet of Things) connects technology more deely with daily life.
