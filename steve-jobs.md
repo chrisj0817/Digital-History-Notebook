@@ -1,1 +1,2 @@
 Steve Jobs played a major role in shaping user-friendly technology and modern consumer electronic. He emphasized simple, elegant design and intuitive interfaces that anyone could use. At Apple, Jobs led the creation of products like the Macintosh, iPod, iPhone, and iPad, which changed how people interact with technology. His focus on combining powerful technology with beautiful design helped make computers and devices an essential part of everyday life.
+Peer review: Could you add more details about the first Macintosh computer?
