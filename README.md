@@ -130,4 +130,4 @@ Timeline: The Rise of the Internet.
 *2010s- Cloud computing and streaming services reshape how people use the internet
 *2020s- The rise of AI tools and IoT(Internet of Things) connects technology more deely with daily life.
 
- 
+ Final Thoughts: The rise of the internet was a long process but it has become one of the most used things in everyday life.
